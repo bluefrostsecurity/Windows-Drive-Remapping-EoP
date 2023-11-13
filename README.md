@@ -13,7 +13,7 @@ If the current user is a member of the `Users` group, the Notepad process should
 
 ## Obtaining `Administrator` privileges by chaining the attack
 
-For the case where the current user is member of the `Administrators` group, it's possible to obtain `Administrator` privileges from the `ctfmon` process by following the steps described in our [Ekoparty 2023 presentation](https://labs.bluefrostsecurity.de/publications/2023/11/13/windows-system-drive-remapping-elevation-of-privileges/) in the exploitation section "The Chain".
+For the case where the current user is member of the `Administrators` group, it's possible to obtain `Administrator` privileges from the `ctfmon` process by following the steps described in our [Ekoparty 2023 presentation](https://labs.bluefrostsecurity.de/windows-system-drive-remapping-elevation-of-privileges) in the exploitation section "The Chain".
 
 ## Supported OSs
 
